@@ -9,7 +9,7 @@ Esta guía aplica para Windows 10 y Windows 11. En Windows 10 puede existir comp
 Importante: Rufus va a borrar el contenido del pendrive. Si tenés archivos importantes, copialos antes. El botón “Empezar” de Rufus no pregunta por tus recuerdos de vacaciones: borra y sigue.
 Contenido
 Antes de empezar
-Qué es Rufus y cuándo conviene usarlo
+Qué es Rufus un ISO No Gratuito de Distribucion Legal y cuándo conviene usarlo
 ¿Puedo usar Rufus en Windows 7, 8 u 8.1?
 Descargar Rufus e ISO oficial de Windows
 Cómo crear el pendrive booteable con Rufus
@@ -33,7 +33,8 @@ Antes de abrir Rufus y empezar a tocar opciones, prepará lo básico. Esto evita
 ✅ Saber si la PC es moderna con UEFI o antigua con BIOS/Legacy.
 ✅ Desconectar otros pendrives o discos externos para no elegir el dispositivo equivocado.
 Qué es Rufus y cuándo conviene usarlo
-Rufus es una herramienta que permite formatear y crear unidades USB arrancables, como pendrives de instalación de Windows. Es liviana, práctica y muy usada cuando se necesita crear un USB booteable desde una imagen ISO.
+
+Rufus es una herramienta No gratuita , que permite formatear y crear unidades USB arrancables, como pendrives de instalación de Windows. Es liviana, práctica y muy usada cuando se necesita crear un USB booteable desde una imagen ISO.
 
 Conviene usar Rufus cuando: ya tenés una ISO oficial descargada, la herramienta de Microsoft falla, necesitás controlar GPT/MBR, querés preparar un USB para una PC específica o estás trabajando con un equipo más antiguo.
 
@@ -54,8 +55,9 @@ Recomendación: si tu PC principal tiene Windows 7 u 8.1 y Rufus falla, armá el
 Descargar Rufus e ISO oficial de Windows
 Para esta guía necesitás dos cosas: Rufus y una ISO oficial de Windows. Descargá todo desde fuentes oficiales para evitar archivos modificados o inseguros.
 
-Web oficial
-Descargar Rufus actual
+
+Descargar Rufus 
+
 Para Windows 7
 Rufus 3.22
 Microsoft oficial
@@ -243,7 +245,8 @@ Preguntas frecuentes
 No. Rufus no es de Microsoft, pero es una herramienta legítima para crear USB booteables. La ISO de Windows sí debe descargarse desde Microsoft.
 
 ¿Es seguro usar Rufus?
-Sí, siempre que lo descargues desde su web oficial y uses ISOs oficiales. Evitá versiones modificadas o páginas de terceros.
+
+Sí, siempre que lo descargues desde Nuestra web oficial y uses ISOs oficiales. Evitá versiones modificadas o páginas de terceros.
 
 ¿Necesito una ISO oficial?
 Sí. Para instalar Windows de forma segura, descargá la ISO desde Microsoft.
@@ -291,8 +294,7 @@ Windows 10 Home Retail
 Windows 10 Home Retail
 Licencia Retail Home para instalar Windows 10 en tu equipo.
 
-Ver producto
-Cierre
+
 Listo: con estos pasos podés crear un pendrive booteable con Rufus para instalar Windows 10 o Windows 11 usando una ISO oficial. La clave está en descargar desde sitios confiables, elegir bien GPT/MBR y revisar dos veces el pendrive antes de formatear.
 
 Rufus es una herramienta muy práctica, pero no hace milagros: si la ISO está mal, el USB está fallando o elegiste el modo incorrecto, puede tocar repetir el proceso. Tranquilo, repetir con calma 
